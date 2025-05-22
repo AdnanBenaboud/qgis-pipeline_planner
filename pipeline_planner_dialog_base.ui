@@ -27,17 +27,17 @@
    </property>
    <column>
     <property name="text">
-     <string>New Column</string>
-    </property>
-   </column>
-   <column>
-    <property name="text">
      <string>Constraint</string>
     </property>
    </column>
    <column>
     <property name="text">
      <string>ID</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Status</string>
     </property>
    </column>
    <column>
